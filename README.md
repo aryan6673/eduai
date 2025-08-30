@@ -49,7 +49,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jitesh11761176/eduai.git
+   git clone https://github.com/aryan6673/eduai.git
    cd eduai
    ```
 
@@ -78,7 +78,7 @@
 
 Deploy your EduAI platform to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jitesh11761176/eduai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aryan6673/eduai)
 
 ### Manual Deployment
 
@@ -171,8 +171,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project is brought to you by:
 
-- **[@jitesh11761176](https://github.com/jitesh11761176)** - Project Lead & Backend Development
-- **[@aryan6673](https://github.com/aryan6673)** - Frontend Development & UI/UX Design
+- **[@jitesh11761176](https://github.com/jitesh11761176)** - First Prototype of Frontend
+- **[@aryan6673](https://github.com/aryan6673)** - Lead engineer
 
 ## 🙏 Acknowledgments
 
@@ -192,7 +192,7 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Built with ❤️ by [@jitesh11761176](https://github.com/jitesh11761176) and [@aryan6673](https://github.com/aryan6673)**
+**Built with ❤️ by [@aryan6673](https://github.com/aryan6673)**
 
 *Empowering education through AI innovation*
 

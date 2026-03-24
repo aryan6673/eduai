@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 🎓 EduAI Platform
+#  EduAI Platform
 
 **The fastest path from prompt to production with Gemini AI**
 
@@ -16,9 +16,9 @@
 
 </div>
 
-## ✨ Features
+##  Features
 
-### 🚀 For Students
+###  For Students
 - **AI-Adaptive Pathways** - Personalized learning routes that adapt in real-time
 - **24/7 AI Voice Tutor** - Get instant help with voice-powered AI assistance
 - **Interactive Courses** - Engaging content with multimedia materials
@@ -26,19 +26,19 @@
 - **Project Workspaces** - Manage assignments and group projects
 - **Career Center** - Industry-recognized micro-credentials and career guidance
 
-### 👨‍🏫 For Teachers
+###  For Teachers
 - **AI Lesson Planner** - Generate complete lesson plans in seconds
 - **Predictive Analytics** - Identify at-risk students before they struggle
 - **Automated Feedback** - Provide rich, constructive feedback instantly
 - **Course Management** - Streamlined content creation and organization
 - **Student Analytics** - Track progress and engagement metrics
 
-### 🏫 For Administrators
+###  For Administrators
 - **User Management** - Comprehensive admin dashboard
 - **Course Analytics** - Institution-wide insights and reporting
 - **Resource Management** - Efficient allocation of educational resources
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - **Node.js** (16.0 or higher)
@@ -74,7 +74,7 @@
    
    Navigate to `http://localhost:5173` to see the application.
 
-## 🌐 Deploy to Vercel
+##  Deploy to Vercel
 
 Deploy your EduAI platform to Vercel with one click:
 
@@ -108,16 +108,16 @@ Make sure to set these environment variables in your Vercel project settings:
 
 | Variable | Description | Required |
 |----------|-------------|----------|
-| `GEMINI_API_KEY` | Google AI Gemini API key | ✅ |
+| `GEMINI_API_KEY` | Google AI Gemini API key |  |
 
-## 🛠️ Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run proxy` - Start development proxy server
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 eduai/
@@ -133,7 +133,7 @@ eduai/
 └── server/              # Server and proxy configuration
 ```
 
-## 🎯 Technologies Used
+##  Technologies Used
 
 - **Frontend**: React 19, TypeScript, Vite
 - **Styling**: Tailwind CSS
@@ -143,7 +143,7 @@ eduai/
 - **Icons**: Lucide React
 - **Deployment**: Vercel
 
-## 📱 Google AI Studio Integration
+##  Google AI Studio Integration
 
 This platform is built with Google AI Studio and leverages the power of Gemini AI for:
 - Intelligent content generation
@@ -153,7 +153,7 @@ This platform is built with Google AI Studio and leverages the power of Gemini A
 
 View the app in AI Studio: [https://ai.studio/apps/drive/1q-igWHA-0OlMrtfKyPXP0552WQZfrMME](https://ai.studio/apps/drive/1q-igWHA-0OlMrtfKyPXP0552WQZfrMME)
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
@@ -163,24 +163,24 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contributors
+##  Contributors
 
 This project is brought to you by:
 
 - **[@jitesh11761176](https://github.com/jitesh11761176)** - First Prototype of Frontend
 - **[@aryan6673](https://github.com/aryan6673)** - Lead engineer
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Google AI Studio team for the amazing Gemini AI integration
 - The open-source community for the incredible tools and libraries
 - All contributors who help make this project better
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 
